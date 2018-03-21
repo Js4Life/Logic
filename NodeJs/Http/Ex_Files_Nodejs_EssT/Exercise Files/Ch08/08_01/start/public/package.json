@@ -1,0 +1,16 @@
+{
+  "name": "ski-dictionary",
+  "version": "1.0.0",
+  "description": "a collection",
+  "main": "app.js",
+  "scripts": {
+    "test": "skiterm dict"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.3"
+  }
+}
